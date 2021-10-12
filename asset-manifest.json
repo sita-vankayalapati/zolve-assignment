@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zolve-assignment.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/zolve-assignment.git/static/js/main.0461b944.chunk.js",
+    "main.js.map": "/zolve-assignment.git/static/js/main.0461b944.chunk.js.map",
+    "runtime-main.js": "/zolve-assignment.git/static/js/runtime-main.1a15d7dd.js",
+    "runtime-main.js.map": "/zolve-assignment.git/static/js/runtime-main.1a15d7dd.js.map",
+    "static/js/2.b79f4f4e.chunk.js": "/zolve-assignment.git/static/js/2.b79f4f4e.chunk.js",
+    "static/js/2.b79f4f4e.chunk.js.map": "/zolve-assignment.git/static/js/2.b79f4f4e.chunk.js.map",
+    "static/js/3.cb84ff77.chunk.js": "/zolve-assignment.git/static/js/3.cb84ff77.chunk.js",
+    "static/js/3.cb84ff77.chunk.js.map": "/zolve-assignment.git/static/js/3.cb84ff77.chunk.js.map",
+    "index.html": "/zolve-assignment.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/zolve-assignment.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b79f4f4e.chunk.js.LICENSE.txt": "/zolve-assignment.git/static/js/2.b79f4f4e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zolve-assignment.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a15d7dd.js",
+    "static/js/2.b79f4f4e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0461b944.chunk.js"
+  ]
+}
